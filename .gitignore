@@ -1,0 +1,36 @@
+# Compiled Python files
+__pycache__
+
+# Chainlink temporary files
+.chainlit
+
+# Aliases
+aliases
+
+# Collection folders
+collections
+
+# Specific CSV files
+faqs_combined.csv
+faqs_combined - Copy.csv
+faqs_data.csv
+
+# Qdrant test folder
+qdrant_test
+
+# Answer and source text files
+answer.txt
+sources.txt
+
+# Output files
+res.txt
+
+# All JSON files
+*.json
+
+# Python script and batch files
+injest.py
+*.bat
+
+# Python test file
+test.py
